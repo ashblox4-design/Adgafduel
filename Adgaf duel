@@ -1,5 +1,1 @@
-game.Players.PlayerAdded:Connect(function(player)
-    if player.Name == "rex.gaming05" then
-        player:Kick("Scammer po si rex.gaming05. Hindi ka welcome dito.")
-    end
-end)
+
